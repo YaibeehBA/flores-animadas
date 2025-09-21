@@ -24,7 +24,7 @@ body {
   0%,
   100% {
     color: #fff;
-    text-shadow: 0 0 12px #9900ff, 0 0 50px #9900ff, 0 0 100px #9900ff;
+    text-shadow: 0 0 12px #b9c511, 0 0 50px #d5d825, 0 0 100px #aed111;
   }
   10%,
   90% {
@@ -73,12 +73,12 @@ body {
 }
 
 .description {
-  color: #9900ff;
+  color: #eeff00fd;
 }
 
 /* Estilo para el botón */
 .button button {
-  background-color: #9900ff; /* Fondo  */
+  background-color: #cec1c1; /* Fondo  */
   border: none; /* Sin bordes */
   padding: 10px 20px; /* Ajusta del relleno según tu preferencia */
   font-size: 18px; /* Tamaño de fuente */
@@ -96,8 +96,8 @@ body {
 
 /* Efecto de resplandor al pasar el cursor sobre el botón */
 .button button:hover {
-  background-color: #9900ff; /* Cambia el color de fondo al pasar el mouse  */
-  box-shadow: 0 0 10px #9900ff, 0 0 20px #9900ff, 0 0 30px #9900ff; /* Efecto de resplandor  */
+  background-color: #eeff00; /* Cambia el color de fondo al pasar el mouse  */
+  box-shadow: 0 0 10px #941073, 0 0 20px #9e0764, 0 0 30px #8bb811; /* Efecto de resplandor  */
 }
 
 
